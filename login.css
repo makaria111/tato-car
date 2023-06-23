@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://slidebazaar.com/wp-content/uploads/2022/05/Black-and-White-Background-Presentation-templates-SB02298.jpg);
+    width: 100%;
+
+}
+.navbar{
+    background-color: #1C1C1C;
+}
+.tatologo{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 5px solid red;
+    margin-left: 5%;
+}
+.navbar a{
+    color: white;
+    font-size: 8vh;
+    justify-content: space-between;
+    margin-left: 12%;
+    
+
+}
+.menu{
+    display: flex;
+}
+.menu h1{
+    color: black;
+    margin-left: 10%;
+    margin-top: 10%;
+    font-size: 15vh;
+    margin-right: 10%;
+}
+
+.menu img{
+    margin-left: 5%;
+}
+
+.carros{
+  margin-top: 10%;
+    display: flex;
+   
+}
+.carros h1{
+    color: #1C1C1C;
+    margin-left: 47%;
+    font-size: 5vh;
+    margin-top: 3%;
+}
+.carros img{
+    width: 240px;
+    margin-left: 12%;
+    justify-content: space-between;
+    border-radius: 20%;
+    margin-top: 4%;
+}
+
+.moto img{
+    margin-top: 3%;
+    width: 240px;
+    margin-left: 12%;
+    justify-content: space-between;
+    border-radius: 20%;
+}
+
+.mclaren{
+    margin-top: 2%;
+}
+.moto h1{
+    color: #1C1C1C;
+    margin-left: 47%;
+    font-size: 5vh;
+    margin-top: 4%;
+}
+
+.banner{
+    margin-top: 5%;
+    
+    width: 100%;
+    height: 2%;
+
+}
+
+.preço{
+   margin-top: -1vh;
+   width: 20%;
+   margin-left: 5%;
+   height: 70%;
+   
+}
+
+
+
+
+
+
+
+
+
+.otavio{
+    border-radius: 50%;
+ height: 5%;
+ width: 15%;
+ margin-left: 15%;
+ margin-bottom: 5%;
+}
+.carrinho{
+    width: 400px;
+     margin-bottom: 5%;
+     margin-left: 5%;
+}
+.promo{
+    background-color: #1C1C1C;
+}
